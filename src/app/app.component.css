@@ -1,0 +1,45 @@
+.container {
+  position: relative;
+  display: block;
+  border-bottom: green solid 3px;
+  border-top: green solid 3px;
+  border-left: green solid 3px;
+  border-right: green solid 3px;
+}
+
+nav {
+  position: absolute;
+  left: 0;
+  width: 200px;
+  color: black;
+  border-bottom: deeppink solid 3px;
+  border-top: deeppink solid 3px;
+  border-left: deeppink solid 3px;
+  border-right: deeppink solid 3px;
+}
+
+li {
+  color: black;
+}
+
+a {
+  color: deeppink;
+}
+
+section {
+  margin-left: 206px;
+  margin-bottom: 0;
+  border-bottom: yellow solid 3px;
+  border-top: yellow solid 3px;
+  border-left: yellow solid 3px;
+  border-right: yellow solid 3px;
+}
+
+.section2 {
+  color: darkred;
+  background-color: darksalmon;
+}
+
+body {
+margin-bottom: 120px;
+}
